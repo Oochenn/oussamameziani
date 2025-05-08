@@ -69,7 +69,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Software Engineer',
     start: '01.2018',
     end: '06/2018',
-    link: 'https://ibelick.com',
+    link: 'https://barco.com',
     id: 'work1',
   },
 ]
@@ -97,12 +97,8 @@ export const SOCIAL_LINKS: SocialLink[] = [
     link: 'https://www.linkedin.com/in/oussamameziani',
   },
   {
-    label: 'Instagram',
-    link: 'https://www.instagram.com/ibelick',
-  },
-  {
     label: 'Resume',
-    link: 'https://www.oussamameziani.dev/resume.pdf',
+    link: 'https://www.oussamameziani.dev/resume',
   },
 ]
 
