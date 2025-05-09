@@ -98,7 +98,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
   },
   {
     label: 'Resume',
-    link: 'https://www.oussamameziani.dev/resume',
+    link: '/assets/resume.pdf',
   },
 ]
 
