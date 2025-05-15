@@ -137,7 +137,8 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-           ⵣello 🖖, I'm Oussama, a software engineer interested in modern enterprise applications, blockchain and web.
+            Hello 🖖, I'm Oussama, a software engineer interested in modern
+            enterprise applications, blockchain and web.
           </p>
         </div>
       </motion.section>
@@ -180,7 +181,6 @@ export default function Personal() {
         </div>
       </motion.section>
 
-      
       <motion.section
         variants={VARIANTS_SECTION}
         transition={TRANSITION_SECTION}
@@ -209,8 +209,6 @@ export default function Personal() {
           ))}
         </div>
       </motion.section>
-
-
 
       <motion.section
         variants={VARIANTS_SECTION}
