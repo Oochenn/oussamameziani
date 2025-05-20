@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       'Palm Beach American Diner is a fast-food vaporwave restaurant. The website was built in Svelte.',
     link: 'https://www.palmbeach-restaurant.com/',
     video:
-      'https://res.cloudinary.com/doq6y2pbs/video/upload/v1746726710/PixelTaken_Video_2025-05-08_19-38-56_dwiamc.mp4',
+      'https://res.cloudinary.com/dnehrbovy/video/upload/v1747758201/wxftxdege2mij0xoxuao.mp4',
     id: 'project1',
   },
   {
