@@ -68,7 +68,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     company: 'Barco',
     title: 'Software Engineer',
     start: '01.2018',
-    end: '06/2018',
+    end: '06.2018',
     link: 'https://barco.com',
     id: 'work1',
   },
