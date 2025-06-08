@@ -60,7 +60,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     company: 'Capgemini',
     title: '.NET Consultant',
     start: '09.2019',
-    end: '07.2024',
+    end: '07.2023',
     link: 'https://capgemini.com',
     id: 'work2',
   },
